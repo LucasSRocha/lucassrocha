@@ -17,8 +17,8 @@ __/\\\______________/\\\________/\\\________/\\\\\\\\\_____/\\\\\\\\\________/\\
 [![Visits Badge](https://badges.pufler.dev/visits/lucassrocha/lucassrocha)](https://badges.pufler.dev) 
 [![Updated Badge](https://badges.pufler.dev/updated/lucassrocha/lucassrocha)](https://badges.pufler.dev)
 
-[![Repos Badge](https://badges.pufler.dev/repos/lucassrocha)](https://badges.pufler.dev) 
-[![Gists Badge](https://badges.pufler.dev/gists/lucassrocha)](https://badges.pufler.dev) 
+[![Repos Badge](https://badges.pufler.dev/repos/lucassrocha)](https://github.com/LucasSRocha?tab=repositories) 
+[![Gists Badge](https://badges.pufler.dev/gists/lucassrocha)](https://gist.github.com/LucasSRocha) 
 ___
 
 I'm a Chemist turned into a Software Engineer! 
