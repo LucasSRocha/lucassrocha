@@ -14,8 +14,8 @@ __/\\\______________/\\\________/\\\________/\\\\\\\\\_____/\\\\\\\\\________/\\
        _\/\\\\\\\\\\\\\\\__\///\\\\\\\\\/______\////\\\\\\\\\_\/\\\_______\/\\\_\///\\\\\\\\\\\/___ 
         _\///////////////_____\/////////___________\/////////__\///________\///____\///////////_____
 ```
-[![Visits Badge](https://badges.pufler.dev/visits/lucassrocha/lucassrocha)](https://badges.pufler.dev) 
-[![Updated Badge](https://badges.pufler.dev/updated/lucassrocha/lucassrocha)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/lucassrocha/lucassrocha)](https://badges.pufler.dev/visits/lucassrocha/lucassrocha) 
+[![Updated Badge](https://badges.pufler.dev/updated/lucassrocha/lucassrocha)](https://badges.pufler.dev/updated/lucassrocha/lucassrocha)
 
 [![Repos Badge](https://badges.pufler.dev/repos/lucassrocha)](https://github.com/LucasSRocha?tab=repositories) 
 [![Gists Badge](https://badges.pufler.dev/gists/lucassrocha)](https://gist.github.com/LucasSRocha) 
